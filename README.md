@@ -1,7 +1,7 @@
 # Hi 👋 I'm Sagar Santhosh
 
 🎓 BTech CSE @ Vishwakarma Institute of Technology  
-💡 Passionate about AI/ML | Full-Stack Development | Embedded Systems  
+💡 Passionate about AI/ML | Backend Development | Embedded Systems  
 🛠️ Tech I use: Python, JavaScript, Node.js, PostgreSQL, Arduino, TensorFlow, PyTorch  
 📚 Always learning: Scikit-learn, Model Deployment, OpenCV
 
